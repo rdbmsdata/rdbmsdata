@@ -1014,3 +1014,63 @@ Binding(CTRL+SHIFT+T,
 
 !ENTRY org.eclipse.ui 2 2 2021-07-23 14:16:08.990
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:30:52.378
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:30:52.379
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:30:52.379
+!MESSAGE buffering callback sts4.classpath.OjShymBQ spring-design-pattern false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:30:52.379
+!MESSAGE executing callback sts4.classpath.OjShymBQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:30:52.381
+!MESSAGE executing callback sts4.classpath.OjShymBQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:30:52.617
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:30:52.618
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:30:52.619
+!MESSAGE buffering callback sts4.classpath.OjShymBQ spring-design-pattern false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:30:52.619
+!MESSAGE executing callback sts4.classpath.OjShymBQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:30:52.628
+!MESSAGE executing callback sts4.classpath.OjShymBQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:30:53.036
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:30:53.038
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:30:53.038
+!MESSAGE buffering callback sts4.classpath.OjShymBQ spring-design-pattern false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:30:53.039
+!MESSAGE executing callback sts4.classpath.OjShymBQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:30:53.045
+!MESSAGE executing callback sts4.classpath.OjShymBQ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:31:05.211
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:31:05.213
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:31:05.213
+!MESSAGE buffering callback sts4.classpath.OjShymBQ spring-design-pattern false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:31:05.213
+!MESSAGE executing callback sts4.classpath.OjShymBQ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 14:31:05.217
+!MESSAGE executing callback sts4.classpath.OjShymBQ SUCCESS [done]
